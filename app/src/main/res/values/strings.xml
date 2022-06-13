@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Pokemon_Dictionary</string>
+    <string name="title_activity">포켓몬 사전</string>
+    <string name="title_name">이름 검색</string>
+    <string name="hint">검색할 포켓몬을 입력하세요.</string>
+    <string name="details_name">이름 : </string>
+    <string name="details_height">키 : </string>
+    <string name="details_weight">몸무게 : </string>
+    <string name="details_habitat">서식지 : </string>
+    <string name="habitat_known">알려짐</string>
+    <string name="habitat_unknown">알려지지 않음</string>
+    <string name="height_unit">%d dm</string>
+    <string name="weight_unit">%d hg</string>
+    <string name="invalid_id_message">해당하는 포켓몬이 없습니다.</string>
+    <string name="btn_ok">OK</string>
+</resources>
